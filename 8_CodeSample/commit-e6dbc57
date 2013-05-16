@@ -1,0 +1,28 @@
+commit e6dbc577ee92dcac0e330090ee44d53c1feafd6c
+Author: alijoomun <alicv@hotmail.co.uk>
+Date:   Thu May 16 21:18:36 2013 +0400
+
+    Reindenting file
+
+diff --git a/8_CodeSample/link.txt b/8_CodeSample/link.txt
+index dec09a5..483e1c8 100644
+--- a/8_CodeSample/link.txt
++++ b/8_CodeSample/link.txt
+@@ -1,10 +1,15 @@
+ Link to Spring's  Pet Clinic
+ https://github.com/SpringSource/spring-petclinic.git
+ 
++
+ I believe that this code is excellent as it has the following qualities:
+-1. It has a site(http://static.springsource.org/docs/petclinic.html) that documents what
+-technologies that have been used, how to deploy the application and the architecture used.
++
++1. It has a site(http://static.springsource.org/docs/petclinic.html and https://github.com/SpringSource/spring-petclinic/wiki/home-petclinic) that documents what
++ technologies that have been used, how to deploy the application and the architecture used.
++
+ 2. Most of the codes contains well documented JavaDocs.
++
+ 3. There are unit tests covering the model, service and web part
++
+ 4. The codes itself is well layered, the packages are separated into the DAO,
+ business and service layers. 
